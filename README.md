@@ -159,6 +159,14 @@ https://twitter.com/amdsouza92
 Topics: Mobile Web, PWAs, Flask, Blockchain\
 https://twitter.com/aviaryan123
 
+## Madhya Pradesh
+
+<img src="https://twitter.com/mohitrajput987/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Mohit Rajput**\
+Topics: Android, SDK, Kotlin, Flutter, Material Design, Blockchain\
+https://twitter.com/mohitrajput987
+
 ## Lebanon 🇱🇧
 
 ### Tyre
